@@ -1,0 +1,17 @@
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Power BI cache files
+*.pbix.user
+*.pbit.user
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
