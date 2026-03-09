@@ -107,6 +107,7 @@ Example result:
 This confirms realistic repeat customers rather than data duplication errors.
 
 Data Cleaning Process (Excel & Power Query)
+--
 ![Data cleaning Process](/Image/Applied_steps.png)
 
 ## Cleaned Dataset
